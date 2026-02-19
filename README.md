@@ -1,1 +1,15 @@
 # FirstAssignment #Task1
+#GitHubConfig
+
+git config --global.username "RandomMonkeyDLuffy"
+
+C:\Users\dev.dharani\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Git
+
+git init
+git pull origin main
+git status
+git add .
+git status
+git commit -m "Commit Message"
+git push
+git remote add origin https://github.com/RandomMonekyDLuffy/FirstAssignment.git
