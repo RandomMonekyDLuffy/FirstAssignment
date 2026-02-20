@@ -1,5 +1,3 @@
-# FirstAssignment #Task2
-# FirstAssignment #Task1
 #GitHubConfig
 
 git config --global.username "RandomMonkeyDLuffy"
