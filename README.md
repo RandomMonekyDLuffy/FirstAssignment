@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-# FirstAssignment #Task2
-# FirstAssignment #Task1
->>>>>>> 3c9e0eec4a4a66476bde481d57df203c0f085079
 #GitHubConfig
 
 git config --global.username "RandomMonkeyDLuffy"
